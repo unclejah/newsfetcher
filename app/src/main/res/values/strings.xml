@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">newsfetcher</string>
+    <string name="main">Главная</string>
+    <string name="bookmarks">Закладки</string>
 </resources>
