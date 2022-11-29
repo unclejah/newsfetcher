@@ -4,5 +4,5 @@ import com.google.gson.annotations.SerializedName
 
 data class ArticlesRemoteModel (
     @SerializedName("articles")
-    val articlesList : List<ArticleRemoteModel>
+    val articleList : List<ArticleRemoteModel>
 )
