@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
+    android:background="@color/colorPrimary"
     >
 
     <com.google.android.material.appbar.AppBarLayout
@@ -26,6 +27,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="300dp"
                 android:scaleType="matrix"
+                android:background="@color/transparent"
                 app:srcCompat="@drawable/ic_launcher_foreground" />
 
             <androidx.appcompat.widget.Toolbar

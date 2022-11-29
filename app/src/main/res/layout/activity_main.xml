@@ -20,7 +20,8 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:menu="@menu/menu"/>
+        app:menu="@menu/menu"
+        android:background="?colorSecondary"/>
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
