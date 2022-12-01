@@ -19,6 +19,6 @@ class App : Application () {
             androidContext(this@App)
             modules(netWorkModule, mainScreenModule,databaseModule, bookmarksModule)
         }
-        AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_FOLLOW_SYSTEM)
+        AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_YES)
     }
 }
